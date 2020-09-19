@@ -1,0 +1,15 @@
+D:\Projects\repos\TwoColumnListView\TwoColumnListView\bin\Debug\netstandard2.0\TwoColumnListView.deps.json
+D:\Projects\repos\TwoColumnListView\TwoColumnListView\bin\Debug\netstandard2.0\TwoColumnListView.dll
+D:\Projects\repos\TwoColumnListView\TwoColumnListView\bin\Debug\netstandard2.0\ref\TwoColumnListView.dll
+D:\Projects\repos\TwoColumnListView\TwoColumnListView\bin\Debug\netstandard2.0\TwoColumnListView.pdb
+D:\Projects\repos\TwoColumnListView\TwoColumnListView\obj\Debug\netstandard2.0\TwoColumnListView.csprojAssemblyReference.cache
+D:\Projects\repos\TwoColumnListView\TwoColumnListView\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Projects\repos\TwoColumnListView\TwoColumnListView\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Projects\repos\TwoColumnListView\TwoColumnListView\obj\Debug\netstandard2.0\Views\FruitListView.xaml.g.cs
+D:\Projects\repos\TwoColumnListView\TwoColumnListView\obj\Debug\netstandard2.0\TwoColumnListView.AssemblyInfoInputs.cache
+D:\Projects\repos\TwoColumnListView\TwoColumnListView\obj\Debug\netstandard2.0\TwoColumnListView.AssemblyInfo.cs
+D:\Projects\repos\TwoColumnListView\TwoColumnListView\obj\Debug\netstandard2.0\TwoColumnListView.csproj.CoreCompileInputs.cache
+D:\Projects\repos\TwoColumnListView\TwoColumnListView\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Projects\repos\TwoColumnListView\TwoColumnListView\obj\Debug\netstandard2.0\TwoColumnListView.dll
+D:\Projects\repos\TwoColumnListView\TwoColumnListView\obj\Debug\netstandard2.0\ref\TwoColumnListView.dll
+D:\Projects\repos\TwoColumnListView\TwoColumnListView\obj\Debug\netstandard2.0\TwoColumnListView.pdb

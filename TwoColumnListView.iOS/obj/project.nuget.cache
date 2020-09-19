@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0KJxORuH7iRduvWE+f72p8tmQNtJiBkXyiAvByAu35T5OL35H/RrBW7G93/96ohZb9xIxXX0bCXM6z9hRY2vKg==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\repos\\TwoColumnListView\\TwoColumnListView.iOS\\TwoColumnListView.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sjw19\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}
