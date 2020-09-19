@@ -63,19 +63,6 @@ namespace TwoColumnListView.ViewModels
                         Color = "Yellow"
                     }
                 },
-                new FruitContainer()
-                {
-                    Fruit = new Fruit()
-                    {
-                        Name = "",
-                        Color = ""
-                    },
-                    Fruit1 = new Fruit()
-                    {
-                        Name = "",
-                        Color = ""
-                    }
-                }
             }));
 
             //W's
@@ -94,19 +81,6 @@ namespace TwoColumnListView.ViewModels
                         Color = ""
                     }
                 },
-                new FruitContainer()
-                {
-                    Fruit = new Fruit()
-                    {
-                        Name = "",
-                        Color = ""
-                    },
-                    Fruit1 = new Fruit()
-                    {
-                        Name = "",
-                        Color = ""
-                    }
-                }
             }));
             //P's
             Fruits.Add(new FruitListGroup("P", new List<FruitContainer>()
@@ -186,8 +160,7 @@ namespace TwoColumnListView.ViewModels
 
         private void Tap()
         {
-            var x = new Fruit();
-            Debug.Write("Tap on Fruit 2 recognized");
+            //TODO: stuff
         }
     }
 }
